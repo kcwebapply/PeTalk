@@ -1,0 +1,6 @@
+github "Alamofire/Alamofire" "4.5.0"
+github "SwiftyJSON/SwiftyJSON" "3.1.4"
+github "danielgindi/Charts" "v3.0.2"
+github "dekatotoro/SlideMenuControllerSwift" "3.0.1"
+github "philackm/ScrollableGraphView" "4.0.4"
+github "realm/realm-cocoa" "v2.9.1"
